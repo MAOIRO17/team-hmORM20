@@ -1,1 +1,2 @@
-# hola-mundo-ORM20
+# team-hmORM20
+Primer repositorio hola-mundo para realizar pruebas.
